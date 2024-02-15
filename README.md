@@ -5,6 +5,7 @@
 1. Use 'make clean' command to clean any old compiled files
 2. Run 'make'
 3. ./oss [-h] [-s t] [-l f]
+   
 **-h** flag is to get help menu
 **-s t** indicate how many maximum seconds before system terminates
 **-l f** specify a particular name for the log file
